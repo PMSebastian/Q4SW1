@@ -1,0 +1,15 @@
+body {
+	margin: 60px;
+	text-align: center;
+	font-family: kanit;
+	background-image: radial-gradient(circle, darkslategray, darkseagreen, cadetblue);
+}
+
+span {
+	background-color: black;
+	color: white;
+}
+
+img {
+	margin: 20px;
+}
